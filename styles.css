@@ -6,4 +6,79 @@ body{
    background-blend-mode: lighten;
     position: center;
   
+}
+
+  #BobMarley{
+    background:#8fbc8f; 
   }
+  #BobMarley{
+    color:crimson;
+  }
+
+  #EarlyLifeAndCareer{
+    background-color: crimson;
+    background-size: cover;
+    background-blend-mode: lighten;
+    position: center;
+  }
+  #EarlyLifeAndCareer{
+    color:teal
+  }
+
+  #p1{
+    background-color:teal 
+  }
+  #p1{
+    color:#8fbc8f
+  }
+
+  #MusicalCareer{
+    background-color: crimson;
+    background-size: cover;
+    background-blend-mode: lighten;
+    position: center;
+  }
+  #MusicalCareer{
+    color:teal
+  }
+
+  #p2{
+    background-color:teal 
+  }
+  #p2{
+    color:#8fbc8f
+  }
+
+#IllnessAndDeath{
+  background-color: crimson;
+  background-size: cover;
+  background-blend-mode: lighten;
+  position: center;
+  }
+  #IllnessAndDeath{
+    color:#8fbc8f
+  }
+
+  #p3{
+    background-color:teal 
+  }
+  #p3{
+    color:#8fbc8f
+  }
+
+  #Form{
+    background-color:#8fbc8f
+  }
+
+
+
+  
+
+
+
+
+
+
+
+
+  
